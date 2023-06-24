@@ -1,7 +1,7 @@
 # Data
-To open interactive data visualization with plotly (express and Dash) run [`RM_project2_PCA.ipynb`](RM_project2_PCA.ipynb) or download [`/results/yield_curve_with_slider.html`](../results/yield_curve_with_slider.html) and/or [`/results/pca_with_slider.html`](../results/pca_with_slider.html) and open manually.
+To open interactive data visualization with plotly (express and Dash) run [`RM_project2_PCA.ipynb`](RM_project2_PCA.ipynb) and/or download [`/results/yield_curve_with_slider.html`](../results/yield_curve_with_slider.html) or [`/results/pca_with_slider.html`](../results/pca_with_slider.html) and open manually.
 
-### Example screenshots of visualizations:
+### Example screenshots of plotly visualizations:
 Yield curves:
 ![alt text](../results/yield_curve_plotly.png)
 
